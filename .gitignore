@@ -1,0 +1,69 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+python_env/
+virtualenv/
+venv.bak/
+
+# Caches
+*.log
+*.sqlite3
+*.dat
+
+# Local directories
+local_settings.py
+.idea/
+.vscode/
+*.swp
+
+# Application Cache Files
+target_dir.txt
+output_dir.txt
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Ignore package management files
+Pipfile.lock
+poetry.lock
+*.lock
+
+# Ignore .env files containing sensitive environment variables
+.env
+.env.*
