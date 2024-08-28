@@ -86,3 +86,8 @@ This project relies on the following dependencies:
 
 ## **License**
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Acknowledgment
+This project was developed with the assistance of AI tools, including OpenAI's ChatGPT. 
+Some of the code and content within this repository were generated or enhanced with the help of these AI models.
+I value transparency in development and want to credit the AI assistance that contributed to the completion of this project.
